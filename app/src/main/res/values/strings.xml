@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirebaseDemo</string>
+    <string name="login">login</string>
+    <string name="register">register</string>
+</resources>
